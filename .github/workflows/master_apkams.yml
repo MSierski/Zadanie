@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ApkaMS'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2BA3AE9F76704E8F991977429E068104 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B56C29BE16264C308A63B42E6CFFB093 }}
