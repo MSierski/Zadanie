@@ -1,0 +1,21 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\Stud-A230A17\AppData\Local\Programs\Python\Python37\python.exe" value="true" />
+        <entry key="C:\Users\Stud-A230A17\PycharmProjects\ContactManager\venv\Scripts\python.exe" value="true" />
+        <entry key="C:\Users\Stud-A230A17\PycharmProjects\testowanie_apek\venv\Scripts\python.exe" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Users\Stud-A230A17\AppData\Local\Programs\Python\Python37\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Users\Stud-A230A17\AppData\Local\Programs\Python\Python37\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
