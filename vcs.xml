@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/MSierski/Zadanie" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sephooko/catCloud" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Stud-A230A17\PycharmProjects" />
